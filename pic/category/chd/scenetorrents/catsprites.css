@@ -1,0 +1,397 @@
+/* New Style */
+img.c_movies_720p
+{
+width:45px;
+height:46px;
+background-position: -206px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_1080p
+{
+width:45px;
+height:46px;
+background-position: -257px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_2160p
+{
+width:45px;
+height:46px;
+background-position: -358px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_bluray
+{
+width:45px;
+height:46px;
+background-position: -409px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_ipad
+{
+width:45px;
+height:46px;
+background-position: -155px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_remux
+{
+width:45px;
+height:46px;
+background-position: -307px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_sd
+{
+width:45px;
+height:46px;
+background-position: -105px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_4kuhd
+{
+width:45px;
+height:46px;
+background-position: -460px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_4kuhd3d
+{
+width:45px;
+height:46px;
+background-position: -561px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_movies_3dbluray
+{
+width:45px;
+height:46px;
+background-position: -510px -20px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+
+img.c_doc_720p
+{
+width:45px;
+height:46px;
+background-position: -207px -76px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_1080p
+{
+width:45px;
+height:46px;
+background-position: -258px -76px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_2160p
+{
+width:45px;
+height:46px;
+background-position: -359px -76px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_bluray
+{
+width:45px;
+height:46px;
+background-position: -410px -75px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_4kuhdbluray
+{
+width:45px;
+height:46px;
+background-position: -460px -75px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_3dbluray
+{
+width:45px;
+height:46px;
+background-position: -511px -75px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_4k3duhdbluray
+{
+width:45px;
+height:46px;
+background-position: -562px -75px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_ipad
+{
+width:45px;
+height:46px;
+background-position: -156px -76px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_remux
+{
+width:45px;
+height:46px;
+background-position: -308px -76px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_doc_sd
+{
+width:45px;
+height:46px;
+background-position: -106px -76px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvmusics_720p
+{
+width:45px;
+height:46px;
+background-position: -207px -474px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvmusics_1080i
+{
+width:45px;
+height:46px;
+background-position: -258px -474px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvmusics_2160p
+{
+width:45px;
+height:46px;
+background-position: -308px -474px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvshows_720p
+{
+width:45px;
+height:46px;
+background-position: -207px -190px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvshows_1080i
+{
+width:45px;
+height:46px;
+background-position: -258px -190px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvshows_1080p
+{
+width:45px;
+height:46px;
+background-position: -258px -190px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvshows_2160p
+{
+width:45px;
+height:46px;
+background-position: -308px -190px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvshows_bluray
+{
+width:45px;
+height:46px;
+background-position: -156px -190px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvshows_ipad
+{
+width:45px;
+height:46px;
+background-position: -156px -190px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvshows_remux
+{
+width:45px;
+height:46px;
+background-position: -156px -190px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvshows_sd
+{
+width:45px;
+height:46px;
+background-position: -156px -190px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+
+img.c_tvseries_720p
+{
+width:45px;
+height:46px;
+background-position: -207px -246px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvseries_1080i
+{
+width:45px;
+height:46px;
+background-position: -258px -246px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvseries_1080p
+{
+width:45px;
+height:46px;
+background-position: -258px -246px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvseries_2160p
+{
+width:45px;
+height:46px;
+background-position: -308px -246px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvseries_bluray
+{
+width:45px;
+height:46px;
+background-position: -359px -245px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvseries_4kuhdbluray
+{
+width:45px;
+height:46px;
+background-position: -410px -245px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvseries_ipad
+{
+width:45px;
+height:46px;
+background-position: -156px -246px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvseries_remux
+{
+width:45px;
+height:46px;
+background-position: -156px -246px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_tvseries_sd
+{
+width:45px;
+height:46px;
+background-position: -156px -246px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_720p
+{
+width:45px;
+height:46px;
+background-position: -207px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_1080p
+{
+width:45px;
+height:46px;
+background-position: -258px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_2160p
+{
+width:45px;
+height:46px;
+background-position: -359px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_bluray
+{
+width:45px;
+height:46px;
+background-position: -410px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_3bluray
+{
+width:45px;
+height:46px;
+background-position: -511px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_uhdbluray
+{
+width:45px;
+height:46px;
+background-position: -460px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_4k3duhdbluray
+{
+width:45px;
+height:46px;
+background-position: -461px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_ipad
+{
+width:45px;
+height:46px;
+background-position: -156px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_remux
+{
+width:45px;
+height:46px;
+background-position: -308px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_anime_sd
+{
+width:45px;
+height:46px;
+background-position: -106px -132px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+
+img.c_sports_720p
+{
+width:45px;
+height:46px;
+background-position: -207px -360px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_sports_1080i
+{
+width:45px;
+height:46px;
+background-position: -258px -360px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+
+img.c_musics_ape
+{
+width:45px;
+height:46px;
+background-position: -410px -416px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_musics_flac
+{
+width:45px;
+height:46px;
+background-position: -359px -416px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_musics_mv
+{
+width:45px;
+height:46px;
+background-position: -156px -303px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
+img.c_misc
+{
+width:45px;
+height:46px;
+background-position: -156px -532px;
+background-image: url(cht/catsprites2.png?3) !important;
+}
