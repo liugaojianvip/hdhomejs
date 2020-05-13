@@ -26,7 +26,7 @@ table.head
 	background: transparent;
 	height: 100px;
 	width: 90%;
-	min-width: 920px;
+	min-width: 1120px;
 }
 table.main
 {
@@ -36,7 +36,7 @@ table.main
 	border-bottom: none;
 	background-color: #55aa55;
 	width: 90%;
-	min-width: 920px;
+	min-width: 1120px;
 }
 table.mainouter
 {
@@ -46,7 +46,7 @@ table.mainouter
 	border-bottom: lime;
 	background-color: #55aa55;
 	width: 90%;
-	min-width: 920px;
+	min-width: 1120px;
 }
 table.message
 {

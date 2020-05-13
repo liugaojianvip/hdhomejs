@@ -25,19 +25,19 @@ table.head
 	background: transparent;
 	height: 100px;
 	width: 90%;
-	min-width: 920px;
+	min-width: 1120px;
 }
 table.main
 {
 	background-color: #f5f4ea;
 	width: 90%;
-	min-width: 920px;
+	min-width: 1120px;
 }
 table.mainouter
 {
 	background-color: #f5f4ea;
 	width: 90%;
-	min-width: 920px;
+	min-width: 1120px;
 }
 table.message
 {
