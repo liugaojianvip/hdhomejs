@@ -547,9 +547,9 @@ A.Administrator_Name:visited{color: #4b0082}
 A.Moderator_Name:link{color: #6495ED}
 A.Moderator_Name:visited{color: #6495ED}
 
-.ForumModerator_Name{COLOR: #1cc6d5}
-A.ForumModerator_Name:link{COLOR: #1cc6d5}
-A.ForumModerator_Name:visited{COLOR: #1cc6d5}
+.ForumModerator_Name{COLOR: #6666CC}
+A.ForumModerator_Name:link{COLOR: #6666CC}
+A.ForumModerator_Name:visited{COLOR: #6666CC}
 
 .Retiree_Name{COLOR: #1cc6d5}
 A.Retiree_Name:link{COLOR: #1cc6d5}
@@ -558,6 +558,26 @@ A.Retiree_Name:visited{COLOR: #1cc6d5}
 .Uploader_Name{color: #DC143C}
 A.Uploader_Name:link{color: #DC143C}
 A.Uploader_Name:visited{color: #DC143C}
+
+.Helper_Name{color: #9933FF}
+A.Helper_Name:link{color: #9933FF}
+A.Helper_Name:visited{color: #9933FF}
+
+.Seeder_Name{color: #FF6666}
+A.Seeder_Name:link{color: #FF6666}
+A.Seeder_Name:visited{color: #FF6666}
+
+.Transferrer_Name{color: #CC3399}
+A.Transferrer_Name:link{color: #CC3399}
+A.Transferrer_Name:visited{color: #CC3399}
+
+.TorrentManager_Name{color: #4417ff}
+A.TorrentManager_Name:link{color: #4417ff}
+A.TorrentManager_Name:visited{color: #4417ff}
+
+.Coder_Name{color: #333399}
+A.Coder_Name:link{color: #333399}
+A.Coder_Name:visited{color: #333399}
 
 .VIP_Name{color: #009F00}
 A.VIP_Name:link{color: #009F00}
